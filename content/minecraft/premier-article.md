@@ -1,5 +1,5 @@
 ---
-title: "Premier Article"
+title : "Présentation du jeu"
 date: 2023-08-13T14:46:47+02:00
 draft: false
 ---
@@ -12,7 +12,7 @@ En premier nous allons parler de Minecraft et de ses versions.
 
 ## Les différentes versions
 
-Dans Minecraft, il y a les 2 plus grandes versions : la version BEDROCK et la version JAVA.
+Dans Minecraft, il y a plusieurs versions différentes, mais les plus connues sont la version BEDROCK et la version JAVA.
 
 Il y a beaucoup de catégorie de versions.
 
@@ -24,7 +24,7 @@ On peut y jouer sur PS, sur Nintendo, sur PC, sur XBox...
 
 Minecraft est un jeu d'aventure, de survie et de construction.
 
-Ce jeu peut être joué seul en solo ou a plusieurs en mode multijoueur.
+Ce jeu peut être joué seul en solo ou à plusieurs en mode multijoueur.
 
 Il y a plusieurs mode de jeu : Survie, Créatif, Aventure, Hardcore et Spectateur.
 
@@ -32,12 +32,13 @@ Il y a plusieurs mode de jeu : Survie, Créatif, Aventure, Hardcore et Spectateu
 
 Le mode spectateur permet de voler, de traverser les blocs et entités et de voir à travers, tout en restant invisible.
 
-En étant en mode spectateur, on ne peut pas casser de blocs, ni passer dans des portails, ni frapper, ni activer des leviers, des boutons ou autre.
+En étant en mode spectateur, on ne peut ni casser de blocs, ni passer dans des portails, ni frapper des entités, ni activer des leviers...
 
 Les joueurs qui ne sont pas en mode spectateur ne peuvent pas voir ceux en spectateur, toutefois, les personnes en mode spectateur peuvent se voir entre eux, mais voient seulement leurs têtes.
 
 Le mode spectateur est accessible grâce au commandes /gamemode spectator ou est disponible quand on meurt en mode hardcore.
-Aventure
+
+### Aventure
 
 Le mode Aventure est presque comme le mode Survie a quelques détails près :
 
