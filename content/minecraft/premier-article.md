@@ -9,7 +9,8 @@ draft: false
 Voici le [wiki minecraft](https://minecraft.fandom.com/fr/wiki/Minecraft_Wiki).
 
 En premier nous allons parler de Minecraft et de ses versions.
-Les différentes versions
+
+## Les différentes versions
 
 Dans Minecraft, il y a les 2 plus grandes versions : la version BEDROCK et la version JAVA.
 
