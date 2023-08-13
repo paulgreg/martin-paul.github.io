@@ -1,6 +1,7 @@
 ---
 title : "Présentation du jeu"
 date: 2023-08-13T14:46:47+02:00
+author: "FrostShader"
 draft: false
 ---
 

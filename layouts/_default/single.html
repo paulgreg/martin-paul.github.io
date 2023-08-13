@@ -17,8 +17,9 @@
     </header>
 
     <main>
-        <h2>{{ .Title }}</h2>
+        <h2>{{ .Title }} par {{ $.Param "author" }}</h2>
         {{ .Content }}
+
     </main>
 
     <footer>
