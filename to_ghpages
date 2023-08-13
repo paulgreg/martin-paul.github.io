@@ -2,7 +2,8 @@
 
 #Usage: ./to_ghpages
 
-hugo 
+hugo
+cp CNAME public
 
 BRANCH=$(git symbolic-ref -q HEAD)
 BRANCH=${BRANCH##refs/heads/}
@@ -14,7 +15,7 @@ git commit -am "Save uncommited changes (WIP)"
 echo "Building GitHub Page branch..."
 git branch --delete --force gh-pages
 git checkout --orphan gh-pages
-git add -f public 
+git add -f public
 git commit -m "Rebuild GitHub pages"
 
 echo "Pushing GitHub Page branch..."
