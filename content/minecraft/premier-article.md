@@ -23,7 +23,8 @@ On peut y jouer sur PS, sur Nintendo, sur PC, sur XBox...
 
 ### Introduction
 
-Minecraft est un jeu d'aventure, de survie et de construction.
+Minecraft est un jeu d'aventure, de survie et de construction dans un univers entièrement cubique.
+Le joueur apparait dans un monde aléatoire,
 
 Ce jeu peut être joué seul en solo ou à plusieurs en mode multijoueur.
 
@@ -54,3 +55,8 @@ La pelle mine la terre, les blocs d'herbe, le sable et le gravier.
 L'épée tranche les citrouilles-lanternes, les feuillage de tout type, ainsi que les toiles d'araignées.
 
 Les cisailles découpent la laine, tous les type de feuillage et les toiles d'araignée.
+
+### Survie 
+Dans le mode Survie, le joueur doit survivre en collectant différentes ressources, en combattant des créatures hostiles...
+
+
