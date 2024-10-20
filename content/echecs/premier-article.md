@@ -7,4 +7,4 @@ draft: false
 
 ## Échecs
 
-coucou
+Ce blog parle d'échecs.
